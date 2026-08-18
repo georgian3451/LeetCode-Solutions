@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
