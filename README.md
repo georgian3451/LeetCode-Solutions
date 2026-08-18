@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
