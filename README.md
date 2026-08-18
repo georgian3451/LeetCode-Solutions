@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -20,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
