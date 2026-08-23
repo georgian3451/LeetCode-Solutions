@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
 |  |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
