@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
