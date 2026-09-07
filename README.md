@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3903-smallest-stable-index-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quickselect
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Manacher
 |  |
 | ------- |
