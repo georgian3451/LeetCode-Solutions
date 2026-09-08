@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Memoization
 |  |
 | ------- |
