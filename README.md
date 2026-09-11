@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
