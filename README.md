@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
