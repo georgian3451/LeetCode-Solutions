@@ -6,7 +6,7 @@ public:
         int ans = -1;
 
         for(int i=0;i<n;i++){
-            while(!stk.empty() && heights[stk.top()]>heights[i]){
+            while(!stk.empty() && heights[stk.top()]>=heights[i]){
                 int cur = heights[stk.top()];
                 stk.pop();
 
