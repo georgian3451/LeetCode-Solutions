@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 ## Prefix Sum
 |  |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
@@ -284,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
