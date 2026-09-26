@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Design
 |  |
