@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1441-build-an-array-with-stack-operations](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
