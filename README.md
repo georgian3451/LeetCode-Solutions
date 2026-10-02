@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Monotonic Stack
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
