@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1927-sum-game](https://github.com/georgian3451/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Monotonic Stack
 |  |
 | ------- |
