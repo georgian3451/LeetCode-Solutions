@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3477-fruits-into-baskets-ii](https://github.com/georgian3451/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Monotonic Stack
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/georgian3451/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
